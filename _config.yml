@@ -1,6 +1,6 @@
-title: "Markdown Guide"
-url: https://www.markdownguide.org # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
+title: "Markdown Guide - TK"
+url: https://unblindness.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 
 repo: https://github.com/mattcone/markdown-guide
 comments: false

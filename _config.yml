@@ -6,7 +6,6 @@ repo: https://github.com/mattcone/markdown-guide
 comments: false
 
 plugins:
-  - jekyll-last-modified-at
   - jekyll-sitemap
 
 collections:
